@@ -1,7 +1,13 @@
 ### Hi there 👋
+<h2مرحبا (Welcom)🙏🏻, I'm Abdeljebbar BOUBEKRI **aka** Dajebbar! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
-Welcome to my GitHub repo.
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+<!--START_SECTION:waka-->
+
 ![Dajebbar's github stats](https://github-readme-stats.vercel.app/api?username=dajebbar)
+
+
+<!--END_SECTION:waka-->
 
 <!--
 **dajebbar/boubekriabdeljebbar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
