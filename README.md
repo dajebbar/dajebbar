@@ -4,10 +4,10 @@
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 <!--START_SECTION:waka-->
 
-**Stats**
+
 ![Dajebbar's github stats](https://github-readme-stats.vercel.app/api?username=dajebbar) <br/>
 
-**Top Languages**
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dajebbar)](https://github.com/dajebbar/github-readme-stats)
 
 
