@@ -1,15 +1,12 @@
 ### Hi there 👋
-<h2>مرحبا (Welcome)🙏🏻, I'm Abdeljebbar BOUBEKRI **aka** Dajebbar! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2>مرحبا (Welcome)🙏🏻, I'm Abdeljebbar BOUBEKRI! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
+
 <!--START_SECTION:waka-->
 
-<br/>
 ![Dajebbar's github stats](https://github-readme-stats.vercel.app/api?username=dajebbar) <br/>
-
-
-
-
 
 <!--END_SECTION:waka-->
 
